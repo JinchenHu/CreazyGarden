@@ -1,10 +1,5 @@
-package a4;
 
 //-----------------------------------------------------------------------
-//Assignment 4
-//Written by: Jinchen Hu ID#40080398
-//For COMP 248 Section FF 2182 - Fall 2018
-//
 //This is a Crazy Nancy's Garden Game. First of all, the users decide the
 //size of garden, the number and the name of players. Secondly, decide the
 //order of game through dice. Finally, the players plant flower(1x1) or
