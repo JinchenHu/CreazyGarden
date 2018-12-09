@@ -1,4 +1,3 @@
-package a4;
 
 public class Dice {
 	private int die1;// declare the first die
