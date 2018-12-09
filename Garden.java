@@ -1,4 +1,4 @@
-package a4;
+
 
 public class Garden {
 	// declare a 2-D char array representing the garden
