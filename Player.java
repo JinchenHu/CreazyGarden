@@ -1,4 +1,4 @@
-package a4;
+
 
 public class Player {
 	private String name;// declare a String to name
